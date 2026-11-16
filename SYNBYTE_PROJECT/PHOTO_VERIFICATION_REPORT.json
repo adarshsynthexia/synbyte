@@ -1,0 +1,10 @@
+{
+  "total_items": 32,
+  "unique_source_url_count": 32,
+  "source_description_matches_dish_count": 32,
+  "downloaded_photo_count_in_package": 0,
+  "visual_photo_match_verified_count": 0,
+  "duplicate_binary_hash_checks_performed": false,
+  "full_browser_photo_load_check_performed": false,
+  "details": "External photo source links only; user must download and visually verify all 32."
+}

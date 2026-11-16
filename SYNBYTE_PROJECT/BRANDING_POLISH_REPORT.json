@@ -1,0 +1,28 @@
+{
+  "project": "SYNBYTE \u00b7 Powered by Synthexia Group",
+  "edition": "Signature 3D Brand Polish \u00b7 November 2026",
+  "modified": [
+    "index.html",
+    "student-login.html",
+    "vendor-login.html",
+    "admin-login.html",
+    "base.html",
+    "_premium-auth-art.html",
+    "static/css/app.css",
+    "static/images/branding/synthexia-group-emblem.webp",
+    "app.py vendor dashboard SQL"
+  ],
+  "unchanged_backend_flows": [
+    "student/vendor accounts",
+    "32 starter dishes per vendor",
+    "cart",
+    "demo/test payment",
+    "token",
+    "tracking",
+    "ready notifications",
+    "vendor menu management"
+  ],
+  "photos": "Existing 32-source starter menu photographs have NOT been visually authenticated by this branding update",
+  "netlify": "Cannot host Flask as Netlify static site; requires separately hosted backend",
+  "testing": "Python compilation, 44 Jinja templates parse, offline tests, six rendered-page previews and viewport overflow checks. Full Flask integration tests blocked by missing Flask installation in runner."
+}

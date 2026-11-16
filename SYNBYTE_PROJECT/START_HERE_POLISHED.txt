@@ -1,0 +1,26 @@
+SYNBYTE · Powered by Synthexia Group
+SIGNATURE 3D-BRAND EDITION | NOVEMBER 2026
+
+1. Extract this ZIP.
+2. Open SYNBYTE_PROJECT.
+3. Double-click START_SYNBYTE.bat on Windows.
+4. Open http://127.0.0.1:5000
+
+PUBLIC LANDING: Large SYNBYTE branding and original Synthexia Group chrome emblem.
+THREE ROLE LOGIN PAGES: Student, vendor, admin – shared premium design.
+MENU, CART, PAYMENTS, ORDERS: existing Flask workflows preserved.
+VENDOR DASHBOARD: SQL ambiguous vendor_id error fixed in this version.
+
+TO KEEP YOUR EXISTING USERS AND ORDERS:
+- STOP the old SYNBYTE Flask server.
+- Keep the old SYNBYTE_PROJECT folder as backup.
+- After extracting this project, copy the old instance/synbyte.sqlite3 into the
+  NEW SYNBYTE_PROJECT/instance/ folder BEFORE running the new server.
+- Copy any custom vendor photos from old static/images/food/ to the new location.
+- Do NOT share the old instance/.secret file publicly.
+
+DEPLOYMENT IMPORTANT:
+This is a Flask + SQLite application, NOT a standalone Netlify static site.
+Read DEPLOYMENT_NETLIFY_AND_FLASK.md before publishing.
+Real payments are NOT enabled in demo mode. The 32 food photos still require
+individual visual/licensing verification – see REAL_PHOTO_NEXT_STEPS.md.

@@ -1,0 +1,11 @@
+{
+  "brand": "SYNBYTE \u00b7 Powered by Synthexia Group",
+  "vendor_self_register_auto_active": true,
+  "starter_items_per_vendor": 32,
+  "vendor_add_edit_remove_restore": true,
+  "student_vendor_directory": true,
+  "separate_payment_token_tracking": true,
+  "payment_mode": "local_demo_or_optional_test_gateway",
+  "photo_status": "32 distinct real-photo URLs configured; images not downloaded and visually verified in this environment",
+  "fully_tested_in_browser": false
+}

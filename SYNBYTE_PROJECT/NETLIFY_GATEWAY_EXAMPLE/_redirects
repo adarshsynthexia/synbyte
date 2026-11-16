@@ -1,0 +1,2 @@
+# IMPORTANT: Replace hostname before deploying. Backend must already be live.
+/*  https://REPLACE-WITH-YOUR-FLASK-BACKEND.onrender.com/:splat  200!

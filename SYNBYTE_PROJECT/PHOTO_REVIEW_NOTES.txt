@@ -1,0 +1,5 @@
+32 independent real-photo source URLs are supplied for the 32 dishes.
+These photo bytes ARE NOT in this ZIP. Open PHOTO_REVIEW_START_HERE.html online and visually inspect all dishes.
+Run DOWNLOAD_REAL_FOOD_PHOTOS.bat (internet needed). A Wikimedia host may respond 429, in which case retry later.
+No two source URLs are identical, but no binary image duplicate audit can occur until download.
+Always credit photo authors according to PHOTO_SOURCES.csv and source pages.
