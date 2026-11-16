@@ -1,0 +1,22 @@
+
+# Database files
+instance/
+*.sqlite3
+*.sqlite
+*.db
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Local temporary files
+*.log
